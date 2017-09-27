@@ -1,0 +1,24 @@
+
+F-PROT Antivirus CLS version 6.7.10.6267, 32bit (built: 2012-03-27T12-34-14)
+
+
+FRISK Software International (C) Copyright 1989-2011
+Engine version:   4.6.5.141
+Arguments:        -u 4 -s 4 -z 99 --adware --applications malware/zeus.vmem 
+Virus signatures: 201704170128
+                  (/opt/f-prot/antivir.def)
+
+
+
+Results:
+
+Files: 1
+Skipped files: 0
+MBR/boot sectors checked: 0
+Objects scanned: 1
+Infected objects: 0
+Infected files: 0
+Files with errors: 0
+Disinfected: 0
+
+Running time: 00:00

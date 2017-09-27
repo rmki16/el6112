@@ -1,0 +1,150 @@
+
+F-PROT Antivirus CLS version 6.7.10.6267, 32bit (built: 2012-03-27T12-34-14)
+
+
+FRISK Software International (C) Copyright 1989-2011
+Engine version:   4.6.5.141
+Arguments:        -u 4 -s 4 -z 99 --adware --applications recovery 
+Virus signatures: 201704170128
+                  (/opt/f-prot/antivir.def)
+
+[Found application] <W32/Felix:AD:AD-013!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0102992.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0202808.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0152824.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0260784_intelide.sys
+[Found application] <W32/Felix:AD:AD-013!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0179568.dll
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0240960_watchdog.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0250240.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0261656.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0209592.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0241064.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0260752.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0261872.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0260944.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0261512.exe
+[Found application] <W32/Felix:CO:VC!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0144488.dll
+[Found application] <W32/Felix:AD:AD-013!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0051376.dll
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0159456.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0261208.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0260728.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0260800_pciidex.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0240504.exe
+[Found application] <W32/Felix:AD:AD-013!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0169216.dll
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0260504_WmiLib.sys
+[Found application] <W32/Felix:AD:AD-013!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0145024.dll
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0260856.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0105344.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0123288.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0260656_isapnp.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0134648.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0018152.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0262064.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.2/f0219024.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0018824.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0097224.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0219672.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0132728.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0163208_rasacd.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0134240.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0164888_NETBIOS.SYS
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0165424.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0130040.exe
+[Found application] <W32/Felix:EX:011!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0021720_MSOOBE.EXE
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0219512.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0129960.dll
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0129424.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0163072_videosim.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0163016_vga.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0132504.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0176824.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0075448_NDISUIO.SYS
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0220920_diskdump.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0019760.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0134624_swenum.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0133744_raspppoe.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0136088.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0160528.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0026848.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0096936.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0164576_ws2ifsl.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0164960.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0129208.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0080496.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0045168.exe
+[Found application] <W32/Felix:CO:VC!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0122736.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0127792.exe
+[Found security risk] <W32/Zbot.AG.gen!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0126048.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0197216.exe
+[Found application] <W32/Felix:AD:AD-013!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0210064.dll
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0000152.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0134080.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0062328.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0128008.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0134352_tdi.sys
+[Found application] <W32/Felix:AD:AD-013!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0115064.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0117288.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0083472.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0129160_vmx_svga.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0126936.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0162968.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0158984.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0220280.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0219960_hidparse.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0216392.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0135064.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0198744.exe
+[Found application] <W32/Felix:CO:VC!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0215056.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0130088.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0013936.dll
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0070384.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0164344.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0132272.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0216816.exe
+[Found application] <W32/Felix:AD:AD-013!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0016384.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0091520.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0131624_audstub.sys
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0206136.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0042984.dll
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0129560.dll
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0163088_RDPCDD.SYS
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0127880.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0134816.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0130184.dll
+[Found application] <W32/Felix:AD:AD-013!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0032688.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0160768.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0128168.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0129040.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0144008.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0076592.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0060944.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0095216.exe
+[Found application] <W32/Felix:P:Lastsect_unkn!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0202184.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0045384.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0134664.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0130424.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0043352.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0128488.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0009912.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0219872_hidclass.sys
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0059808.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0128592.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0126920_vmmouse.sy.exe
+[Found security risk] <W32/Zbot.AG.gen!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0078696.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0128712.dll
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0088944.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0163144.exe
+[Found application] <W32/Felix:P:Unknown!Eldorado (generic, not disinfectable)> 	recovery/recup_dir.1/f0130664.exe
+
+
+Results:
+
+Files: 614
+Skipped files: 0
+MBR/boot sectors checked: 0
+Objects scanned: 616
+Infected objects: 126
+Infected files: 126
+Files with errors: 0
+Disinfected: 0
+
+Running time: 00:04

@@ -1,0 +1,23 @@
+McAfee VirusScan Command Line for Linux64 Version: 6.1.0.155
+Copyright (C) 2016 McAfee, Inc.
+(408) 988-3832 EVALUATION COPY - April 08 2017
+
+AV Engine version: 5900.7806 for Linux64.
+Dat set version: 8491 created Apr 7 2017
+Scanning for 668451 viruses, trojans and variants.
+
+/home/user/23216001/volatility/memdump/1668.dmp ... is OK.
+/home/user/23216001/volatility/memdump/124.dmp ... is OK.
+
+
+Time: 00:00.00
+
+
+Thank you for choosing to evaluate VirusScan Command Line from McAfee.
+This  version of the software is for Evaluation Purposes Only and may be
+used  for  up to 30 days to determine if it meets your requirements.  To
+license  the  software,  or to  obtain  assistance during the evaluation
+process,  please call (408) 988-3832.  If you  choose not to license the
+software,  you  need  to remove it from your system.  All  use  of  this
+software is conditioned upon compliance with the license terms set forth
+in the README.TXT file.

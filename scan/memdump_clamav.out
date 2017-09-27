@@ -1,0 +1,12 @@
+volatility/memdump/1668.dmp: OK
+volatility/memdump/124.dmp: OK
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4754977
+Engine version: 0.97.7
+Scanned directories: 1
+Scanned files: 2
+Infected files: 0
+Data scanned: 0.00 MB
+Data read: 116.93 MB (ratio 0.00:1)
+Time: 9.783 sec (0 m 9 s)

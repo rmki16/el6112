@@ -1,0 +1,193 @@
+[x86] Gathering all referenced SSDTs from KTHREADs...
+Finding appropriate address space for tables...
+------
+ETHREAD: 0xff1b88b0 Pid: 1668 Tid: 1672
+Tags: 
+Created: 2010-08-11 06:06:35 UTC+0000
+Exited: 1970-01-01 00:00:00 UTC+0000
+Owning Process: vmtoolsd.exe
+Attached Process: vmtoolsd.exe
+State: Waiting:Executive
+BasePriority: 0x8
+Priority: 0x8
+TEB: 0x7ffdd000
+StartAddress: 0x7c810867 kernel32.dll
+ServiceTable: 0x80552140
+  [0] 0x80501030
+  [1] 0xbf997600
+  [2] 0x00000000
+  [3] 0x00000000
+Win32Thread: 0xe1d73690
+CrossThreadFlags: 
+0x7c810867 33ed             XOR EBP, EBP
+0x7c810869 50               PUSH EAX
+0x7c81086a 6a00             PUSH 0x0
+0x7c81086c e9bb640000       JMP 0x7c816d2c
+0x7c810871 90               NOP
+0x7c810872 8bff             MOV EDI, EDI
+0x7c810874 90               NOP
+0x7c810875 90               NOP
+0x7c810876 90               NOP
+0x7c810877 90               NOP
+0x7c810878 90               NOP
+0x7c810879 64               DB 0x64
+0x7c81087a 8b               DB 0x8b
+0x7c81087b 15               DB 0x15
+0x7c81087c 1800             SBB [EAX], AL
+0x7c81087e 00               DB 0x0
+------
+ETHREAD: 0xff14bbf8 Pid: 1668 Tid: 1844
+Tags: 
+Created: 2010-08-11 06:06:38 UTC+0000
+Exited: 1970-01-01 00:00:00 UTC+0000
+Owning Process: vmtoolsd.exe
+Attached Process: vmtoolsd.exe
+State: Waiting:WrLpcReceive
+BasePriority: 0x8
+Priority: 0x9
+TEB: 0x7ffdb000
+StartAddress: 0x7c810856 kernel32.dll
+ServiceTable: 0x80552140
+  [0] 0x80501030
+  [1] 0xbf997600
+  [2] 0x00000000
+  [3] 0x00000000
+Win32Thread: 0xe127ab18
+CrossThreadFlags: 
+Eip: 0x7c90eb94
+  eax=0x00167a88 ebx=0x00000000 ecx=0x00167ae8 edx=0xfe7b5598 esi=0x0015e298 edi=0x00000100
+  eip=0x7c90eb94 esp=0x015dfe1c ebp=0x015dff80 err=0x00000000
+  cs=0x1b ss=0x23 ds=0x23 es=0x23 gs=0x00 fs=0x3b efl=0x00000246
+  dr0=0x00000000 dr1=0x00000000 dr2=0x00000000 dr3=0x00000000 dr6=0x00000000 dr7=0x00000000
+0x7c810856 33ed             XOR EBP, EBP
+0x7c810858 53               PUSH EBX
+0x7c810859 50               PUSH EAX
+0x7c81085a 6a00             PUSH 0x0
+0x7c81085c e973acffff       JMP 0x7c80b4d4
+0x7c810861 90               NOP
+0x7c810862 90               NOP
+0x7c810863 90               NOP
+0x7c810864 90               NOP
+0x7c810865 90               NOP
+0x7c810866 90               NOP
+0x7c810867 33ed             XOR EBP, EBP
+0x7c810869 50               PUSH EAX
+0x7c81086a 6a00             PUSH 0x0
+0x7c81086c e9               DB 0xe9
+0x7c81086d bb               DB 0xbb
+------
+ETHREAD: 0xff379bc0 Pid: 1668 Tid: 1380
+Tags: 
+Created: 2010-08-11 06:07:14 UTC+0000
+Exited: 1970-01-01 00:00:00 UTC+0000
+Owning Process: vmtoolsd.exe
+Attached Process: vmtoolsd.exe
+State: Waiting:UserRequest
+BasePriority: 0x8
+Priority: 0x9
+TEB: 0x7ffd8000
+StartAddress: 0x7c810856 kernel32.dll
+ServiceTable: 0x80552180
+  [0] 0x80501030
+  [1] 0x00000000
+  [2] 0x00000000
+  [3] 0x00000000
+Win32Thread: 0x00000000
+CrossThreadFlags: 
+Eip: 0x7c90eb94
+  eax=0x77e3e70d ebx=0x00000000 ecx=0x00000000 edx=0x00000000 esi=0x00000000 edi=0x00000102
+  eip=0x7c90eb94 esp=0x01c9ff78 ebp=0x01c9ffb4 err=0x00000000
+  cs=0x1b ss=0x23 ds=0x23 es=0x23 gs=0x00 fs=0x3b efl=0x00000286
+  dr0=0x00000000 dr1=0x00000000 dr2=0x00000000 dr3=0x00000000 dr6=0x00000000 dr7=0x00000000
+0x7c810856 33ed             XOR EBP, EBP
+0x7c810858 53               PUSH EBX
+0x7c810859 50               PUSH EAX
+0x7c81085a 6a00             PUSH 0x0
+0x7c81085c e973acffff       JMP 0x7c80b4d4
+0x7c810861 90               NOP
+0x7c810862 90               NOP
+0x7c810863 90               NOP
+0x7c810864 90               NOP
+0x7c810865 90               NOP
+0x7c810866 90               NOP
+0x7c810867 33ed             XOR EBP, EBP
+0x7c810869 50               PUSH EAX
+0x7c81086a 6a00             PUSH 0x0
+0x7c81086c e9               DB 0xe9
+0x7c81086d bb               DB 0xbb
+------
+ETHREAD: 0xff1fc230 Pid: 1668 Tid: 1760
+Tags: 
+Created: 2010-08-11 06:06:38 UTC+0000
+Exited: 1970-01-01 00:00:00 UTC+0000
+Owning Process: vmtoolsd.exe
+Attached Process: vmtoolsd.exe
+State: Running
+BasePriority: 0x8
+Priority: 0x8
+TEB: 0x7ffdc000
+StartAddress: 0x7c810856 kernel32.dll
+ServiceTable: 0x80552140
+  [0] 0x80501030
+  [1] 0xbf997600
+  [2] 0x00000000
+  [3] 0x00000000
+Win32Thread: 0xe174c4a0
+CrossThreadFlags: 
+0x7c810856 33ed             XOR EBP, EBP
+0x7c810858 53               PUSH EBX
+0x7c810859 50               PUSH EAX
+0x7c81085a 6a00             PUSH 0x0
+0x7c81085c e973acffff       JMP 0x7c80b4d4
+0x7c810861 90               NOP
+0x7c810862 90               NOP
+0x7c810863 90               NOP
+0x7c810864 90               NOP
+0x7c810865 90               NOP
+0x7c810866 90               NOP
+0x7c810867 33ed             XOR EBP, EBP
+0x7c810869 50               PUSH EAX
+0x7c81086a 6a00             PUSH 0x0
+0x7c81086c e9               DB 0xe9
+0x7c81086d bb               DB 0xbb
+------
+ETHREAD: 0xff14ada8 Pid: 1668 Tid: 1872
+Tags: 
+Created: 2010-08-11 06:06:38 UTC+0000
+Exited: 1970-01-01 00:00:00 UTC+0000
+Owning Process: vmtoolsd.exe
+Attached Process: vmtoolsd.exe
+State: Waiting:WrLpcReceive
+BasePriority: 0x8
+Priority: 0x8
+TEB: 0x7ffd9000
+StartAddress: 0x7c810856 kernel32.dll
+Win32StartAddress: 0x00009505
+ServiceTable: 0x80552180
+  [0] 0x80501030
+  [1] 0x00000000
+  [2] 0x00000000
+  [3] 0x00000000
+Win32Thread: 0x00000000
+CrossThreadFlags: 
+Eip: 0x7c90eb94
+  eax=0x00000000 ebx=0x00000000 ecx=0x0015e298 edx=0x000003c0 esi=0x0015e298 edi=0x00000100
+  eip=0x7c90eb94 esp=0x017dfe1c ebp=0x017dff80 err=0x00000000
+  cs=0x1b ss=0x23 ds=0x23 es=0x23 gs=0x00 fs=0x3b efl=0x00000246
+  dr0=0x00000000 dr1=0x00000000 dr2=0x00000000 dr3=0x00000000 dr6=0x00000000 dr7=0x00000000
+0x7c810856 33ed             XOR EBP, EBP
+0x7c810858 53               PUSH EBX
+0x7c810859 50               PUSH EAX
+0x7c81085a 6a00             PUSH 0x0
+0x7c81085c e973acffff       JMP 0x7c80b4d4
+0x7c810861 90               NOP
+0x7c810862 90               NOP
+0x7c810863 90               NOP
+0x7c810864 90               NOP
+0x7c810865 90               NOP
+0x7c810866 90               NOP
+0x7c810867 33ed             XOR EBP, EBP
+0x7c810869 50               PUSH EAX
+0x7c81086a 6a00             PUSH 0x0
+0x7c81086c e9               DB 0xe9
+0x7c81086d bb               DB 0xbb

@@ -1,0 +1,11 @@
+volatility/procdump/executable.1668.exe: OK
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4754977
+Engine version: 0.97.7
+Scanned directories: 1
+Scanned files: 1
+Infected files: 0
+Data scanned: 0.06 MB
+Data read: 0.06 MB (ratio 1.00:1)
+Time: 8.401 sec (0 m 8 s)

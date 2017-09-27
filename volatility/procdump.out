@@ -1,0 +1,4 @@
+Process(V) ImageBase  Name                 Result
+---------- ---------- -------------------- ------
+0xff1b8b28 0x00400000 vmtoolsd.exe         OK: executable.1668.exe
+0xff224020 ---------- cmd.exe              Error: PEB at 0x7ffdf000 is unavailable (possibly due to paging)
